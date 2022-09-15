@@ -1,0 +1,1 @@
+var obj = {name:"lalit", surname:"kanigava", city:"jawad", mobile:9098725826};
